@@ -18,7 +18,7 @@ public class WhichNumber {
     Scanner myScanner;
     myScanner = new Scanner (System.in);// call the Scanner constructor
     String answer; //declare variable 
-    answer = "y";
+    //answer = "y";
     
     //accept input from user:
     System.out.print (
