@@ -58,7 +58,7 @@ public class SpaceExploration {
         System.out.println ("2000: First spacecraft orbits an asteroid");
         
         default:
-        System.out.println ("Cannot compute. Explosion in 5 seconds.")
+        System.out.println ("Cannot compute. Explosion in 5 seconds.");
         }
         
     }//end of main
