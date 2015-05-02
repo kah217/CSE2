@@ -61,8 +61,8 @@ public class zigzag {
         
             while (b<(sputnik)){
             b++;
-            random+=b;
-                while (c<random){ //loops the spaces per line
+           
+                while (c<input){ //loops the spaces per line
                 c++;
                 System.out.print(" ");
                 }
